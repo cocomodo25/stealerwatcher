@@ -22,7 +22,7 @@
 
 ## 🛠️ Environment & Stack
 
-* **OS**: Cross-Platform (Linux, Windows, macOS)
+* **OS**: Linux
 * **Language**: Python 3.x
 * **Hardware Target**: x86, x64, and ARM architectures (Tested on Odroid M1S)
 ## 💻 How to Run (Local Test)
